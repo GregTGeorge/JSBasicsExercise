@@ -76,5 +76,3 @@ console.log(u);
 // let c = 4;
 // let u = m + c;
 // console.log(u);
-a = 1
-console.log(a);
